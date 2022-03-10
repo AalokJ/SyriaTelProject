@@ -41,7 +41,7 @@ California, Maryland, New Jersey, and Texas have the highest churn rates. Alaska
 ![chart3](./Images/ChurnState.jpg)
 
 ### Voicemail Plan
-The percentage of customers who churned is higher for customers with no voicemail plans (~17%) than those with a voicemail plan (~9%). 
+The percentage of customers who churned is higher for customers with no voicemail plans (~17%) than those with a voicemail plan (~9%)!
 
 ![chart4](./Images/Voicemailchurnfinal.jpg)
 
